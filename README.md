@@ -1,5 +1,5 @@
 # Projekt_Munka
-2022.02.26-2022.03.04 -ig készült
+2022.02.26-2022.06.04 -ig készült
 
 Létrehozo személyek:
 Projektmunkát készitette: Zamishailo Artem, Lóczy Levente Attila
